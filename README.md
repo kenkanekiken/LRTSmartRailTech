@@ -1,4 +1,4 @@
-#Autonomous LRT Mileage Tracking System 🚆
+Autonomous LRT Mileage Tracking System 🚆
 
 An embedded systems project designed to develop an autonomous mileage tracking solution for SMRT LRT trains using ESP32 microcontrollers and CAN Bus / TCMS integration.
 
